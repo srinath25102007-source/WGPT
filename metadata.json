@@ -1,0 +1,8 @@
+{
+  "name": "Remix WeatherGPT",
+  "description": "Conversational AI for weather forecasting, IMD alerts, hyper-local climate insights, interactive maps, and sector advisories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
